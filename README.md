@@ -14,7 +14,7 @@ Techstack:
 
 -Backend: Flask REST API (Python), model pre-antrenat NLP pentru analiza sentimente
 
-Multumiri trainer-ilor pentru indrumare si ajutor:
+Multumiri trainerilor pentru indrumare si ajutor:
 
 -Ecaterina Nicoleta Hrib
 
